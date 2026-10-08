@@ -5,3 +5,20 @@ Welcome to **Byte Bites**, the first food trunk run *entirely* by student coders
 - **Breakfast**
     - bacon, egg, and cheese
     - mango smoothie 
+- **Lunch**
+    - chopped cheese
+    - veggie tacos 
+    - fresh lemonade
+---
+## How Our Ordering App Works
+Every order is added up by our app. We use the `total` variable to keep track of the price:
+```js
+let total = 0
+total = total + 8;
+
+if (total > 10) {
+    console.log("You get a free cookie!");
+} else {console.log("Add $2 more for a free cookie!")
+}
+```
+
