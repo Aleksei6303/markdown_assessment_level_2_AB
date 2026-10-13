@@ -21,12 +21,12 @@ total = total + 8;
 if (total > 10) {
     console.log("You get a free cookie!");
 } else {
-    console.log("Add $2 more for a free cookie!")
+    console.log("Add $2 more for a free cookie!");
 }
 ```
 ---
 >## What Customers Are Saying
->Best  chopped cheese in Earth Harlem, and the *free cookie** deal is *genius!*
+>"Best  chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
 ---
 ## Find Us Online 
 Follow our daily location on [instagram](https://www.instagram.com/?hl=en), or read our reviews on [Yelp](https://www.yelp.com/nyc).
